@@ -265,3 +265,4 @@ Operator shares:
 - [Final Analytical Dataset](data/TRAI_mobile_lsa_analysis_FINAL.csv)
 - [Power BI Report](powerbi/TRAI_Telecom_Market_Intelligence.pbix)
 - [PDF Report](powerbi/TRAI_Telecom_Market_Intelligence.pdf)
+- [Detailed Operator Strategy & Market Intelligence Report](docs/Indian_Telecom_Operator_Strategy_Market_Intelligence_2026.pdf)
